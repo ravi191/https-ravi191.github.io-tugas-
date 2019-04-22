@@ -1,0 +1,47 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}  
+.link{
+    color:black;
+    padding: 10px 15px;
+}
+.link: hover{
+    background: white;
+    color: aliceblue;
+}
+.section1{
+    background-image: url(../img/HD.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family:fantasy
+    font-size: 50px;
+    color:aliceblue;
+    margin: auto;
+}
+.sub-judul{
+    font-family:fantasy
+    font-size: 30px;
+    color:aliceblue;
+    margin: auto;
+}
+.section2{
+    background-image: url(../img/HD%202.png);
+    padding: 40px 0px; 
+    
+}
+.section3{
+    background-image: url(../img/HD%203.jpg)
+    padding: 40px 0px;
+    text-align: center;
+}
+.col-warna{
+    background: darkorange;
+}
+.col-warna2{
+    background: white;
+}
